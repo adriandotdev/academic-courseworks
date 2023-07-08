@@ -27,3 +27,24 @@ This is the preview of the user information, and his/her enrolled courses.
 The project also has a feature that saves the enrolled users. It is not connected to a database. Here, we learned how data can pass between different frames in Java Swing.
 
 ![Enrolled Students](https://github.com/adriandotdev/academic-courseworks/assets/63532775/2fe93bdc-4edf-4dc0-8210-9bed2cc755aa)
+
+<hr/>
+
+## Associated at Pamantasan ng Cabuyao
+
+**Professor**
+
+Prof. Patrick Ogalesco
+<hr/>
+
+**Members**
+
+Jaurigue, Josh
+
+Marcelo, Adrian Nads L.
+
+Opo, Lenard G.
+
+Sarmiento, Eric B.
+
+Suelo, RC Khaye B.
