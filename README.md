@@ -28,8 +28,12 @@ Prof. Patrick Ogalesco
 ### **Members**
 
 Jaurigue, Josh
+
 Marcelo, Adrian Nads L.
+
 Opo, Lenard G.
+
 Sarmiento, Eric B.
+
 Suelo, RC Khaye B.
 
