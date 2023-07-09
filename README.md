@@ -25,3 +25,11 @@ This is a project during my freshman year using Java Swing to create GUI (Graphi
 
 Prof. Patrick Ogalesco
 
+### **Members**
+
+Jaurigue, Josh
+Marcelo, Adrian Nads L.
+Opo, Lenard G.
+Sarmiento, Eric B.
+Suelo, RC Khaye B.
+
