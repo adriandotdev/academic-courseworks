@@ -16,3 +16,12 @@ This is a project during my freshman year using Java Swing to create GUI (Graphi
 ## Created Characters
 
 ![Created Characters](https://github.com/adriandotdev/academic-courseworks/assets/63532775/7832430a-2f56-4b7c-940f-36a2d6b20847)
+
+<hr/>
+
+### Associated at Pamantasan ng Cabuyao
+
+### **Professor**
+
+Prof. Patrick Ogalesco
+
